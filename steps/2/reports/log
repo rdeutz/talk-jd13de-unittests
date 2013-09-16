@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="./tests" tests="5" assertions="16" failures="0" errors="0" time="0.029300">
+    <testsuite name="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" tests="5" assertions="16" failures="0" errors="0" time="0.029300">
+      <testcase name="testCredits" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" line="23" assertions="1" time="0.012854"/>
+      <testcase name="testGetBeer" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" line="28" assertions="1" time="0.002664"/>
+      <testcase name="testGetWater" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" line="33" assertions="1" time="0.002537"/>
+      <testcase name="testReturnCredits" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" line="38" assertions="2" time="0.003003"/>
+      <testcase name="testGetALotBeers" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/2/tests/drinksMaschineTest.php" line="47" assertions="11" time="0.008242"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

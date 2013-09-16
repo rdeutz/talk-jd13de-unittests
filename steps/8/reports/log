@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="./tests" tests="29" assertions="31" failures="0" errors="0" time="0.092018">
+    <testsuite name="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/8/tests/drinksMaschineTest.php" tests="29" assertions="31" failures="0" errors="0" time="0.092018">
+      <testcase name="testCredits" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/8/tests/drinksMaschineTest.php" line="26" assertions="1" time="0.011414"/>
+      <testcase name="testGetBeer" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/8/tests/drinksMaschineTest.php" line="31" assertions="2" time="0.003277"/>
+      <testcase name="testGetWater" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/8/tests/drinksMaschineTest.php" line="37" assertions="1" time="0.002634"/>
+      <testcase name="testReturnCredits" class="DrinksMaschineTest" file="/Users/deutz/work/htdocs/jd13de/unittests/8/tests/drinksMaschineTest.php" line="42" assertions="2" time="0.003146"/>
+      <testsuite name="DrinksMaschineTest::testGetALotOfDrinks" tests="8" assertions="8" failures="0" errors="0" time="0.023082">
+        <testcase name="testGetALotOfDrinks with data set #0" assertions="1" time="0.002611"/>
+        <testcase name="testGetALotOfDrinks with data set #1" assertions="1" time="0.002591"/>
+        <testcase name="testGetALotOfDrinks with data set #2" assertions="1" time="0.002583"/>
+        <testcase name="testGetALotOfDrinks with data set #3" assertions="1" time="0.003037"/>
+        <testcase name="testGetALotOfDrinks with data set #4" assertions="1" time="0.003397"/>
+        <testcase name="testGetALotOfDrinks with data set #5" assertions="1" time="0.002918"/>
+        <testcase name="testGetALotOfDrinks with data set #6" assertions="1" time="0.003279"/>
+        <testcase name="testGetALotOfDrinks with data set #7" assertions="1" time="0.002666"/>
+      </testsuite>
+      <testsuite name="DrinksMaschineTest::testGetALotBeers2" tests="17" assertions="17" failures="0" errors="0" time="0.048465">
+        <testcase name="testGetALotBeers2 with data set #0" assertions="1" time="0.002595"/>
+        <testcase name="testGetALotBeers2 with data set #1" assertions="1" time="0.002591"/>
+        <testcase name="testGetALotBeers2 with data set #2" assertions="1" time="0.002598"/>
+        <testcase name="testGetALotBeers2 with data set #3" assertions="1" time="0.002824"/>
+        <testcase name="testGetALotBeers2 with data set #4" assertions="1" time="0.002620"/>
+        <testcase name="testGetALotBeers2 with data set #5" assertions="1" time="0.002858"/>
+        <testcase name="testGetALotBeers2 with data set #6" assertions="1" time="0.002868"/>
+        <testcase name="testGetALotBeers2 with data set #7" assertions="1" time="0.003059"/>
+        <testcase name="testGetALotBeers2 with data set #8" assertions="1" time="0.002613"/>
+        <testcase name="testGetALotBeers2 with data set #9" assertions="1" time="0.002773"/>
+        <testcase name="testGetALotBeers2 with data set #10" assertions="1" time="0.002938"/>
+        <testcase name="testGetALotBeers2 with data set #11" assertions="1" time="0.002615"/>
+        <testcase name="testGetALotBeers2 with data set #12" assertions="1" time="0.003089"/>
+        <testcase name="testGetALotBeers2 with data set #13" assertions="1" time="0.002734"/>
+        <testcase name="testGetALotBeers2 with data set #14" assertions="1" time="0.003819"/>
+        <testcase name="testGetALotBeers2 with data set #15" assertions="1" time="0.002891"/>
+        <testcase name="testGetALotBeers2 with data set #16" assertions="1" time="0.002980"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
